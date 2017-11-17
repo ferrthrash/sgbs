@@ -79,6 +79,7 @@
 						<li class="active"><a href="index.html"><span>Inicio<span class="border"></span></span></a></li>
 						<li><a href="publicacion"><span>Publicaciones<span class="border"></span></span></a></li>
 						<li><a href="left-sidebar.html"><span>Noticias<span class="border"></span></span></a></li>
+						<li><a href="left-sidebar.html"><span>Donde donar<span class="border"></span></span></a></li>
 						<li><a href="elements.html"><span>Iniciar sesion<span class="border"></span></span></a></li>
 					</ul>
 				</div>
