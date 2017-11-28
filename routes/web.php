@@ -32,9 +32,14 @@ Route::get('/demo2', function () {
 Route::get('/demo3', function () {
     return view('demos.demo3');
 });
+//RUTAS DE SGBS
 Route::get('/demoportada', function () {
     return view('portada.index');
 });
 Route::get('/publicacion', function () {
     return view('portada.publicacion');
+});
+// RUTAS DE SISTEMA ERP
+Route::get('/erphome', function () {
+    return view('erp.index');
 });

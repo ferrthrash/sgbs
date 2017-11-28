@@ -9,23 +9,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>SGBS</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
-
-  <!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
+	<meta name="description" content=""/>
+	<meta name="keywords" content=""/>
+	<meta name="author" content=""/>
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -38,13 +24,12 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<!-- Colocar iconos favicon.ico y apple-touch-icon.png en el directorio raiz-->
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<!-- Google Webfonts -->
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-	
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="{{asset('css/portada/animate.css')}}"/>
 	<!-- Icomoon Icon Fonts-->
@@ -72,11 +57,11 @@
 				<div class="navbar-header"> 
 				<!-- Mobile Toggle Menu Button -->
 				<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#fh5co-navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-				<a class="navbar-brand" href="index.html">Red de donantes de sangre</a>
+				<a class="navbar-brand" href="demoportada">Red de donantes de sangre</a>
 				</div>
 				<div id="fh5co-navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="active"><a href="index.html"><span>Inicio<span class="border"></span></span></a></li>
+						<li class="active"><a href="demoportada"><span>Inicio<span class="border"></span></span></a></li>
 						<li><a href="publicacion"><span>Publicaciones<span class="border"></span></span></a></li>
 						<li><a href="left-sidebar.html"><span>Noticias<span class="border"></span></span></a></li>
 						<li><a href="left-sidebar.html"><span>Donde donar<span class="border"></span></span></a></li>
@@ -87,7 +72,7 @@
 		</nav>
 	</header>
 	<!-- END .header -->
-	
+	<!--
 	<div class="fh5co-slider">
 		<div class="owl-carousel owl-carousel-fullwidth">
 		    <div class="item" style="background-image:url(img/portada/portada1.png)">
@@ -151,7 +136,10 @@
 		    	</div>
 		    </div>
 		</div>
-	</div>	
+	</div>
+	-->
+
+
 	<div id="fh5co-main">
 		<!-- Features -->
 		<!--
